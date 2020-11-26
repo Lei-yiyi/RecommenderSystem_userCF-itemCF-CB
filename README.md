@@ -1,7 +1,5 @@
 # RecommenderSystem_userCF-itemCF-CB
 
-原文链接：https://github.com/Lockvictor/MovieLens-RecSys
-
 ## 1、项目目标
 基于 Movielens 1M 数据集分别实现了 User Based Collaborative Filtering（以下简称UserCF）和 Item Based Collaborative Filtering（以下简称ItemCF）两个算法。
 
