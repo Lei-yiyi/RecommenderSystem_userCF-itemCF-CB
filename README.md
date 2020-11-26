@@ -14,7 +14,6 @@ Python3
 
 ## 5、模块说明
 
-    ├─.ipynb_checkpoints ：Jupyter Notebook 中运行代码时自动生成的文件夹
     ├─data ：运行 CB.ipynb 需要的数据
     ├─ml-1m ：运行 itemCF.ipynb 和 userCF.ipynb 需要的数据
     ├─CB.ipynb ：基于内容的推荐算法的实现
